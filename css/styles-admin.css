@@ -1,0 +1,13 @@
+.wx-settings-outer-wrap .wx-plugin-settings{
+    width: 65%;
+    float: left;
+}
+.wx-settings-outer-wrap .wx-plugin-info{
+    width: 30%;
+    float: right;
+}
+.wx-info-widget {
+    background-color: #ffffff;
+    padding: 20px;
+    margin-bottom: 20px;
+}
